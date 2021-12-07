@@ -1,0 +1,3 @@
+[console_scripts]
+dsp = dsp.cli:main
+

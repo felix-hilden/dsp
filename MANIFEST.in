@@ -1,0 +1,4 @@
+graft src/dsp
+graft tests
+include readme.rst
+global-exclude *.py[cod] __pycache__ *.so

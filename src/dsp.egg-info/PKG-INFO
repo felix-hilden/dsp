@@ -1,0 +1,40 @@
+Metadata-Version: 2.1
+Name: dsp
+Version: 0.1.0
+Summary: Dyson sphere program recipe calculator.
+Home-page: https://pypi.org/project/dsp
+Author: Felix Hildén
+Author-email: felix.hilden@gmail.com
+Maintainer: Felix Hildén
+Maintainer-email: felix.hilden@gmail.com
+License: MIT
+Download-URL: https://pypi.org/project/dsp
+Project-URL: Source, https://github.com/felix-hilden/dsp
+Project-URL: Issues, https://github.com/felix-hilden/dsp/issues
+Keywords: dyson sphere program
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/x-rst
+Provides-Extra: build
+Provides-Extra: tests
+Provides-Extra: checks
+Provides-Extra: dev
+License-File: LICENSE
+
+dsp
+===
+|license|
+
+Dyson sphere program recipe calculator.
+
+.. code: sh
+
+   $ dsp arg --flag --opt value
+   $ dsp --help
+
+
+.. |license| image:: https://img.shields.io/badge/License-MIT-blue.svg
+   :target: https://choosealicense.com/licenses/mit
+   :alt: License: MIT
+
+
